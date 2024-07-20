@@ -216,4 +216,5 @@ PS C:\Users\siddh\Desktop\Coding\WebDev\GitHubPractice> git log --graph
   Date:   Sat Jul 20 13:53:22 2024 +0530
 
       First commit(snapshot - 7 lines)
-      
+
+      git branch -D features/navbar
