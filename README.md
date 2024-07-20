@@ -18,3 +18,10 @@ git switch main
 
 
 **Both branches merged**
+
+git stash
+changed to features/navbar branch commited changes there, switch to main and now
+git stash apply
+Got previous changes 
+git add .
+git commit -m "stash applied"
